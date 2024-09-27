@@ -75,13 +75,14 @@ ul li a:hover{
 
 } /*Doctors Details and Text Colors changes in this section*/
 .teams .card{
-    width: 300px;
+    width: 280px;
     height: 390px;
     background-color: #0b7b5f;
     border-radius: 5px;
     margin-inline: 20px;
     margin-top: 22px;
     color: #e4e1e1;
+
 }
 .card img{
     width: 100%;

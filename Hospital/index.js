@@ -30,8 +30,9 @@ card.forEach(function(cards){
        document.querySelector(".content").innerHTML=`
        <img src=${cards.firstElementChild.src} alt="">
        <div class="contentText">
-                   <h1>Alexa Zoan</h1>
-                   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi ex accusantium eius magnam, esse repellat veritatis, consectetur aut perspiciatis dolor labore sapiente.</p>
+                   <h3>Dr. Soneet Aggarwal and friends</h3>
+                   <p>Dr. Soneet Aggarwal is renowned as the Best Orthopedic Doctor in Jalandhar having Over 20 Years 
+                        of Experience in This Field.</p>
        </div>
        `
       closeBtn.addEventListener("click", function(){
