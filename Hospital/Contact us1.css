@@ -8,11 +8,11 @@
     }
     header {
         background-color: #0a4e4d;
-        padding: 20px 0;
+        padding: 5px;
         text-align: center;
     }
     .container {
-        max-width: 1200px;
+          max-width: 75%; 
         margin: 0 auto;
         padding: 0 20px;
     }
@@ -26,7 +26,7 @@
         transition:0.3s ;
     }
     .hero h1{
-        font-size: 4em;
+        font-size: 3em;
         text-align: center;
         color: white;
     }
@@ -50,7 +50,7 @@
         padding: 0;
     }
     .nav-links li {
-        margin-left: 20px;
+        margin-left: 40px;
     }
     .nav-links a {
         color: #ffffff;
@@ -93,5 +93,19 @@
     }
     .logo span{
         color: #168686;
+    }
+    .submit-btn {
+        background-color: rgb(68, 65, 65);
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+    
+    .submit-btn:hover {
+        background-color: rgba(17, 139, 201, 0.781);
+        
     }
 }

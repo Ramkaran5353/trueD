@@ -46,7 +46,8 @@ ul li a:hover{
      background-color: rgb(16, 106, 106);
      color: white;
      height: 640px;
-    
+     /* background-image: url(Logo1.png); */
+
 } 
 .mainText h1{
     font-size: 55px;
